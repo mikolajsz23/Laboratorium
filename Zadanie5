@@ -1,8 +1,9 @@
 Skorzystałem ze strony host-tracker.com
 
 www.onet.pl -> wszystkie wezły działają poprawnie. 
-nasa.com -> wszystkie wezly dzialaja poprawnie, poza wezłęm w Rosji oraz w Białorusi
-www.google.pl -> wszystkie wezły działają poprawnie. 
-www.gov.pl -> wszystkie wezły działają poprawnie. 
+www.nasa.com -> wszystkie wezly dzialaja poprawnie, poza wezłęm w Rosji oraz w Białorusi
+www.google.pl -> wszystkie wezły działają poprawnie. Cały świat
+www.gov.pl -> wszystkie wezły działają poprawnie. Dane przechodze przez Europe, Afryke, Stany Zjednoczone
+www.uafm.edu.pl -> pakiety przechodza głównie przez Europe
 
 Każda domena przechodzi przez USA.
