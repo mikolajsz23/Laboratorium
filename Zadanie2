@@ -1,1 +1,11 @@
+PS C:\Users\labor> ipconfig
 
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : kswstghg.ksw.edu.pl
+   IPv4 Address. . . . . . . . . . . : 172.28.30.167
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 172.28.30.10
