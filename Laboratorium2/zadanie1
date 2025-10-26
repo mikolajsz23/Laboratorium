@@ -14,6 +14,10 @@ Czas pobiernia:
 czas = rozmiar / przepustowość
 czas = 8 000 000 Mb / 300 Mb/s = 26 666,67s
 
-26 666,67s / 3600 s = 7,4h = 7 godzin 25 min
+Narzut 5%:
+8 000 000 * 1,05 = 8 400 000 Mb
+czas = 8 400 000 Mb / 300 Mb/s = 28 000 s
 
-Plik ten pobierzemy w około 7 godzin i 25 minut.
+28 000s / 3600 s = 7,78h = 7 godzin 47 min
+
+Plik ten pobierzemy w około 7 godzin i 47 minut.
