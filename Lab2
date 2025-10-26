@@ -1,0 +1,19 @@
+Wielkość pliku: 1TB
+Przepustowość: 300Mb/s
+
+W jakim czasie pobierzemy ten plik?
+
+Obliczenia:
+1TB = 1000GB
+1GB = 1000MB
+1MB = 8Mb (megabitów)
+
+1TB = 1000 * 1000  * 8 = 8 000 000 Mb
+
+Czas pobiernia:
+czas = rozmiar / przepustowość
+czas = 8 000 000 Mb / 300 Mb/s = 26 666,67s
+
+26 666,67s / 3600 s = 7,4h = 7 godzin 25 min
+
+Plik ten pobierzemy w około 7 godzin i 25 minut.
