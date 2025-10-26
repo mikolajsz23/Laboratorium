@@ -22,7 +22,6 @@ Odpowiedz na pytania:
 2. Dlaczego komputer przechowuje odwiedzone adresy?
 
 Odpowiedzi:
-1.
+1. Pamięć podręczna DNS to lokalny magazyn, w którym komputer lub serwer przechowuje ostatnio odwiedzane adresy IP przypisane do nazw domen.
 
-
-2.
+2. Komputer przechowuje odwiedzone adresy, aby następnym razem szybciej je odnaleźć, bez ponownego pytania serwera DNS.
