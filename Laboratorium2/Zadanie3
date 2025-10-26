@@ -1,0 +1,28 @@
+    outlook.office365.com
+    ----------------------------------------
+    Record Name . . . . . : outlook.office365.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 253
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ooc-g2.tm-4.office.com
+
+
+    studencki.kswstghg.ksw.edu.pl
+    ----------------------------------------
+    Record Name . . . . . : studencki.kswstghg.ksw.edu.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1239
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.28.30.1
+
+Odpowiedz na pytania:
+1. Czym jest pamięć podręczna DNS?
+2. Dlaczego komputer przechowuje odwiedzone adresy?
+
+Odpowiedzi:
+1.
+
+
+2.
