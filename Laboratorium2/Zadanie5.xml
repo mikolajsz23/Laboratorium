@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spis>
+	<osoba id="1">
+		<imie>Mikolaj</imie>
+		<nazwisko>Szydlowski</nazwisko>
+		<plec>Mezczyzna</plec>
+		<wiek>20</wiek>
+	</osoba>
+
+	<osoba id="2">
+		<imie>Wiktor</imie>
+		<nazwisko>Skurzynski</nazwisko>
+		<plec>Mezczyzna</plec>
+		<wiek>23</wiek>
+	</osoba>
+
+	<osoba id="3">
+		<imie>Oliwer</imie>
+		<nazwisko>Szyba</nazwisko>
+		<plec>Mezczyzna</plec>
+		<wiek>25</wiek>
+	</osoba>
+</spis>
+
